@@ -7,7 +7,7 @@ spring:
     version: 1.0.0
 
 accounts:
-  message: "This is the production configuration for the user service."
+  message: "This is the prod configuration for the user service."
   contactDetails:
     email: "{cipher}220aba6585aacafc0eecd20fb6727d30d94a4497b3fa17ce838a2505b262aa7efc100afa7b71636e9536966636d501d1"
     name: "FOX-SEC Production Team"
