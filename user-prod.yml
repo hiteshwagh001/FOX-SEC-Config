@@ -1,0 +1,19 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+  build:
+    version: 1.0.0
+
+accounts:
+  message: "This is the production configuration for the user service."
+  contactDetails:
+    email: "prod@fox-sec.com"
+    name: "FOX-SEC Production Team"
+  onCallSupport:
+    - 1234567890
+    - 0987654321
+  supportHours:
+    start: "09:00"
+    end: "17:00"

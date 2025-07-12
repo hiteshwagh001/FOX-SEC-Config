@@ -1,0 +1,19 @@
+build:
+  version: "2.0.0"
+
+spring:
+  application:
+    name: "user"
+
+  data:
+    mongodb:
+      uri: mongodb+srv://waghitesh1:dPyvLQakZw16pZNU@fox-sec.gsednki.mongodb.net/?retryWrites=true&w=majority&appName=FOX-SEC
+      database: userdb
+
+  # data:
+  #   mongodb:
+  #     uri: mongodb://localhost:27017/foxsec
+  #     auto-index-creation: true
+
+server:
+  port: 8082

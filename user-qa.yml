@@ -1,0 +1,14 @@
+build:
+  version: "2.0.0"
+
+accounts:
+  message: "This is the qa configuration for the user service."
+  contactDetails:
+    email: "qa@fox-sec.com"
+    name: "FOX-SEC qa Team"
+  onCallSupport:
+    - 1234567890
+    - 0987654321
+  supportHours:
+    start: "09:00"
+    end: "17:00"
