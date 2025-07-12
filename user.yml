@@ -7,7 +7,7 @@ spring:
 
   data:
     mongodb:
-      uri: mongodb+srv://waghitesh1:dPyvLQakZw16pZNU@fox-sec.gsednki.mongodb.net/?retryWrites=true&w=majority&appName=FOX-SEC
+      uri: "{cipher}ee58f53487539ce359b516914d8328d642a8b69474951cb5cffdb618cf0ce5d9ac803e625ddf72a9d5406de40327429c37b0e83307ec1d35510813959d67507b4bd52967aeee870d506e1ba350ba63e21b34f90d126a53f521214d1c171c2b92f97d54858eca6b93bd7ef7539304353ed049d96051bd58a52b74084a2f848a96895453283d47176d148e6327c65ddb11"
       database: userdb
 
   # data:
